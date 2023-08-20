@@ -1,0 +1,118 @@
+body {
+    margin:0;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin-top:0;
+    font-family: 'Sacramento', cursive;
+    color:rgb(119, 62, 62);
+    font-size:70px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+    background-color:#A1CCD1;
+    position:relative;
+    padding-top:100px;
+}
+
+.middle-container {
+    background-color:#A1CCD1;
+    padding-top:50px;
+}
+
+.bottom-container {
+    background-color:#A1CCD1;
+    padding-top:0px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position:absolute;
+    left:600px;
+    bottom:300px;
+}
+
+.top-cloud {
+    position:absolute;
+    right:600px;
+    top:50px;
+}
+
+.programmer {
+    color:rgb(119, 62, 62);
+    font-size:20px;
+}
+
+.skill-circular {
+    height:150px;
+    width:150px;
+    border-radius:100%;
+}
+
+hr {
+    border-style:none;
+    border-top-style:dotted;
+    border-width:5px;
+    width:5%;
+    border-color:brown;
+}
+
+.rating {
+    position:relative;
+    left:750px;
+}
+
+.rating2 {
+    position:relative;
+    left:750px;
+    padding-left:50px;
+}
+
+.education {
+    text-align:center;
+    padding:10px;
+}
+
+.work {
+    padding:20px;
+    position:relative;
+    left:400px;
+}
+
+.work2 {
+    padding:20px;
+    position:relative;
+    left:900px;
+    bottom:145px;
+}
+
+.hobbies {
+    padding:20px;
+}
+
+.my-pic {
+    height:200px;
+    width:200px;
+    border-radius:100%;
+}
+
+ul {
+    list-style:none;   
+}
+
+ul li {
+    margin-bottom:5px;
+}
